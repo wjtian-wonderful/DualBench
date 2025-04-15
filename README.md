@@ -6,12 +6,17 @@ A PyTorch Lightning solution to training CASP.
 
 
 training code: 
+
+```bash
 cd CASP
 bash train.sh
+```
 
 inference code: 
+```bash
 cd CASP
 python inference_score_v2c_bench_gt.py
+```
 
 
 <p align="center">
