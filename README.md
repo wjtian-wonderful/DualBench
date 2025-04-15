@@ -4,11 +4,14 @@ A PyTorch Lightning solution to training CASP.
 
 ## Usage 🚂
 
-training code: bash train.sh
 
+training code: 
+cd CASP
+bash train.sh
 
-
-inference code: python /zhuxinfa/work_space/train-CASP/inference_score_v2c_bench_gt.py
+inference code: 
+cd CASP
+python inference_score_v2c_bench_gt.py
 
 
 <p align="center">
