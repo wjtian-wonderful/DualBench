@@ -14,6 +14,7 @@
 
 
 # You can find DualDub's Demo Pages [here](https://anonymous.4open.science/w/DualDubDemo-DD18/).
+(if appearing 404, please refresh the page!)
 
 
 &#8203;
