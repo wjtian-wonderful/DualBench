@@ -18,7 +18,8 @@
 
 # DualBench test set 📎
 
-the video-to-soundtrack test list can be found in video-to-soundtrack.jsonl.
+the video-to-soundtrack test list can be found in **video-to-soundtrack.jsonl**.
+
 (The original v2c-animation data and the separation model can be found at [v2c-animation](https://github.com/chenqi008/V2C) and [Mel-Band-Roformer-Vocal-Model](https://github.com/KimberleyJensen/Mel-Band-Roformer-Vocal-Model))
 
 &#8203;
