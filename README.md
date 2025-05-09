@@ -50,7 +50,6 @@ CASP overview
 
 ​	This dataset is used to evaluate the performance of the model in generating soundtracks for videos.
 
-​	samples:
 
 ```json
 
@@ -72,6 +71,8 @@ cd CASP
 python inference_score_v2c_bench_gt.py
 ```
 
+4. checkpoint：
+   checkpoint can be found here： [here](https://huggingface.co/wonderfuluuuuuuuuuuu/DualDub/tree/main)
 
 
 
