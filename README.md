@@ -72,7 +72,7 @@ python inference_score_v2c_bench_gt.py
 ```
 
 4. checkpoint：
-   checkpoint can be found here： [here](https://huggingface.co/wonderfuluuuuuuuuuuu/DualDub/tree/main)
+   checkpoint can be found here： [here](`https://huggingface.co/wonderfuluuuuuuuuuuu/DualDub/tree/main`)
 
 
 
